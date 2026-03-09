@@ -1,0 +1,4 @@
+pandas
+vaderSentiment
+psycopg2-binary
+textblob
