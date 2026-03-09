@@ -8,3 +8,4 @@ data/archive/
 *.csv
 *.log
 .DS_Store
+config/config.conf
